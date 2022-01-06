@@ -46,6 +46,7 @@ p{
     width: 50%;
     float:left;
     margin-left : 2%;
+    margin-top: 2%;
     border: 1px solid;
     padding: 10px;
     box-shadow: 2px 2px 20px 20px rgba(0, 0, 0, 0.2);
@@ -57,13 +58,21 @@ img{
     width:80%;
     margin-top: 10%;
     border-bottom: 5%;
-    border-radius: 3%;
+    border-radius: 10%;
     overflow : hidden;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 .realization_image{
     width : 50%;
     float :left;
-    margin-left : 5%;
+    margin-left: 3%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color:yellowgreen;
+    
 }
 
 .link-button{
@@ -111,7 +120,7 @@ img{
     float:left;
     width:32%;
     margin-left:2%;
-    background-color:rgb(218, 209, 208) ;
+    background-color:thistle;
     padding: 10px;
 }
 
@@ -120,7 +129,7 @@ img{
     width:32%;
     margin-left:2%;
     margin-right: 2%;
-    background-color:rgb(218, 209, 208) ;
+    background-color:rgb(173, 211, 245);
     padding: 10px;}
 #footer p{
     text-align: center;
